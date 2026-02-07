@@ -1,0 +1,22 @@
+# Flask Backend Requirements
+# Climate Policy Strategy Engine
+
+# Core Framework
+flask==3.0.0
+flask-cors==6.0.0
+
+# Scientific Computing
+numpy==1.26.0
+
+# Production Server (optional)
+gunicorn==23.0.0
+
+# Development Tools
+python-dotenv==1.0.0
+
+# Testing (optional)
+pytest==8.1.0
+pytest-flask==1.3.0
+google.generativeai==0.3.2
+protobuf==6.33.5
+requests~=2.32.5
